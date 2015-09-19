@@ -2,6 +2,10 @@
 
 Ruby script to grab the [ALEC model legislation](http://www.alec.org/model-legislation/) as JSON.
 
-The results are in the this repo in `alec-model-bills.json`
+## Usage
 
 Run the script with `./alec-bill-scraper.rb`. The first argument passed can be the filename of where the JSON should be saved.
+
+## Results
+
+The [results are on S3](https://s3-us-west-1.amazonaws.com/tyler-pearson/alec/alec-model-bills.json).

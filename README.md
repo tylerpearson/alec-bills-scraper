@@ -8,4 +8,4 @@ Run the script with `./alec-bill-scraper.rb`. The first argument passed can be t
 
 ## Results
 
-The [results are on S3](https://s3-us-west-1.amazonaws.com/tyler-pearson/alec/alec-model-bills.json).
+The [results are on S3](https://tyler-pearson.amazonaws.com/alec/alec-model-bills.json).
